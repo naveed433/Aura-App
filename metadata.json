@@ -1,0 +1,6 @@
+{
+  "name": "AURA",
+  "description": "Luxury social super-app with WhatsApp-like communications, Reels video feed, Marketplace, and creator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
